@@ -1,6 +1,6 @@
 # Projeto_12
 
-Obs: No projeto usei gráficos interativos gerados pelo Plotly Express como eles não são exibidos corretamente, transformei os gráficos em estáticos para conseguir visualiza-los aqui.
+Obs: No projeto usei gráficos interativos gerados pelo Plotly Express como eles não são exibidos corretamente, transformei os gráficos em estáticos para conseguir visualizá-los aqui.
 
 Analisar os dados dos clientes de uma acadêmia e verificar os motivos da alta taxa de cancelamentos.
 
