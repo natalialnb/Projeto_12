@@ -16,9 +16,10 @@ Métodos:
 - regressão logística.
 - floresta aleatória.
 
--Avaliação de acurácia, precisão e sensibilidade.
--R2.
--RSME.
+Avaliação de:
+- acurácia, precisão e sensibilidade.
+- R2.
+- RSME.
 
 Agrupamentos de clientes:
 - padronização dos dados.
