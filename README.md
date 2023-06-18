@@ -2,7 +2,7 @@
 
 Obs: No projeto usei gráficos interativos gerados pelo Plotly Express como eles não são exibidos corretamente, transformei os gráficos em estáticos para conseguir visualizá-los aqui.
 
-Analisar os dados dos clientes de uma acadêmia e verificar os motivos da alta taxa de cancelamentos.
+<strong>Analisar os dados dos clientes de uma acadêmia e verificar os motivos da alta taxa de cancelamentos.</strong>
 
 Estrutura:
 - análise exploratória dos dados (AED).
